@@ -5,6 +5,7 @@
 	justify-content: center;
 /* 	justify-content: space-around; */
 	flex-wrap: wrap;
+	align-items:center;
 }
 .div-1{
 	background-color:green;
