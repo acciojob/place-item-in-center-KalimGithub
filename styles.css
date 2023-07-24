@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.item-1{
+	display:flex;
+	justify-content: center;
+/* 	justify-content: space-around; */
+	flex-wrap: wrap;
+}
+.div-1{
+	background-color:green;
+	
+	width:50px;
+}
